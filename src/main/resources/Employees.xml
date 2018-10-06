@@ -1,4 +1,5 @@
-<?xml version="1.0"?>
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!-- was: <?xml version="1.0"?> -->
 
 <employees>
 	<companyname>ABC Inc.</companyname>
@@ -10,13 +11,13 @@
 
 	<employee>
 		<id>102</id>
-		<name>Prabhu</name>
-		<designation>Executive</designation>
+		<name>ИВАНОВ</name>
+		<designation>МЕРЧЕНДАЙЗЕР</designation>
 	</employee>
 
 	<employee>
 		<id>103</id>
-		<name>John</name>
-		<designation>Executive</designation>
+		<name>ПЕТРОВ</name>
+		<designation>СТАРШИЙ ПОМОЩНИК ЗАМЕСТИТЕЛЯ ПО ХОЗЯЙСТВЕННОЙ ЧАСТИ</designation>
 	</employee>
 </employees>

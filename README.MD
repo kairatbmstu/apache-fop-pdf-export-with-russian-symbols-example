@@ -2,3 +2,4 @@ mvn archetype:generate -DgroupId=com.levent.fop -DartifactId=apache-fop-example 
 
 http://netjs.blogspot.com.tr/2015/07/how-to-create-pdf-from-xml-using-apache-fop.html
 
+# apache-fop-pdf-export-with-russian-symbols-example
